@@ -18,3 +18,6 @@ For this project, you will assume the role of a Data Scientist / Data Analyst wo
 
 ### Python Machine Learning  
 Simple IRIS Flower Prediction.
+
+## Notes
+
